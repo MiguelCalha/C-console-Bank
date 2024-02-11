@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1571426570 source:c:\users\gu3st\dropbox\docencia\ips\ucs\gop\afp gop\projetos\sg banco alves dos reis\source code\projbanco\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575453263 source:c:\users\dcalha\downloads\projbanco\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1579902595 source:c:\users\dcalha\desktop\projetos\lfp\projbanco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1579902595 source:c:\users\dcalha\desktop\projetos\lfp\miguelcalha_190288017_diogosoares_190288003_danielsilva_190288002\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
